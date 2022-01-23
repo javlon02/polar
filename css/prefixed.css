@@ -8,7 +8,7 @@
 @font-face {
     font-family: 'Fredoka One';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 400px;
     font-weight: swap;
     src: local(''),
     url('./../fonts/fredoka-one-v8-latin-regular.woff2') format('woff2'),
@@ -678,7 +678,7 @@
     line-height: 21px;
     letter-spacing: 0.01em;
     color: #0F0101;
-    pacity: 0.7;
+    opacity: 0.7;
     margin: 0;
     padding: 0;
     padding-bottom: 29px;
